@@ -15,4 +15,4 @@ Product Details Enhancement: Improve product browsing with dynamic hover effects
 Buy Now & Add To Cart: Offer convenient purchase options for users.
 Basic Orders Tracking: Keep users informed with simple order tracking functionalities.
 
-![Website Look](https://github.com/LakshayD02/FullStack-Flipkart-Clone/Website.png)
+![Website Look](https://github.com/LakshayD02/FullStack-Flipkart-Clone/blob/main/Website.png)
